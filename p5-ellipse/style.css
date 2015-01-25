@@ -1,3 +1,7 @@
-#my-container {
-	text-align: center;
-	}	
+.canvas-container {
+  text-align: center;
+}
+
+.my-canvas {
+    border: 1px solid gray;
+}
